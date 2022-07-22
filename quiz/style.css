@@ -1,0 +1,32 @@
+body{
+    background-color:lightskyblue !important;
+}
+.col-md-7
+{
+    margin:100px !important;
+    background-color: white;
+    padding: 20px;
+}
+h1{
+    background-color: blue;
+    color: white !important;
+}
+
+input,label{
+    margin:10px;
+    font-size:20px;
+    font-weight:bold;
+}
+button{
+    margin: 10px !important;
+}
+#result{
+    background-color: white !important;
+    font-size: 40px;
+    font-weight: bolder;
+    color:black
+}
+h2{
+    font-weight: bolder !important;
+    font-size: 20px !important;
+}
